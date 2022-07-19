@@ -18,6 +18,10 @@ configuración de su gestor de base de datos MySQL
 donde Db será el nombre de la base de datos, User el
 usuario de MySQL y Password la contraseña de acceso.
 
+En la carpeta encontrara un archivo .sql donde estaran
+los scripts para generar las tablas junto con los datos 
+de prueba.
+
 Una vez realizado lo anterior solo deberá iniciarse sesión con
 el usuario "admin" y clave de acceso "admin" para usar la app.
 
