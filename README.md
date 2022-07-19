@@ -19,5 +19,5 @@ donde Db será el nombre de la base de datos, User el
 usuario de MySQL y Password la contraseña de acceso.
 
 Una vez realizado lo anterior solo deberá iniciarse sesión con
-el nombre y clave de acceso "admin" para usar la app.
+el usuario "admin" y clave de acceso "admin" para usar la app.
 
