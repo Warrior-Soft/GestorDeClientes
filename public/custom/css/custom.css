@@ -1,0 +1,86 @@
+.personal {
+    background-color: #159adb;
+    margin-top: 25px;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding: 10px;
+    border: 2px solid #ccc;
+    /* IMPORTANTE */
+    text-align: center;
+  }
+
+  .tema {
+    background-color: white;
+    margin-top: 25px;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding: 10px;
+    border: 2px solid #ccc;
+    /* IMPORTANTE */
+    text-align: center;
+  }
+
+  .personal2 {
+    background-color: #fafafa;
+    /* margin-bottom: 100px; */
+    margin-left: 150px;
+    margin-right: 150px;
+    border: 2px solid #ccc;
+    /* IMPORTANTE */
+  }
+
+  .funciones{
+    background-color: #159adb;
+    margin-left: 150px;
+    margin-right: 150px;
+    border: 2px solid #ccc;
+    padding: 10px;
+    text-align: center;
+    margin-top: 25px;
+  }
+
+  .cursos{
+    background-color: #159adb;
+    padding: 10px;
+    border: 2px solid #ccc;
+    padding: 10px;
+    text-align: center;
+    margin-top: 25px;
+  }
+  .cursocontenedor {
+    background-color: #fafafa;
+    /* margin-bottom: 100px; */
+    padding-left: 175px;
+    padding-right: 175px;
+    border: 2px solid #ccc;
+    /* IMPORTANTE */
+  }
+
+  .pagos{
+    background-color: #159adb;
+    padding: 10px;
+    border: 2px solid #ccc;
+    text-align: center;
+    margin-top: 25px;
+  }
+  .pagocontenedor {
+    background-color: #fafafa;
+    padding-left: 155px;
+    padding-right: 170px;
+    border: 2px solid #ccc;
+    /* IMPORTANTE */
+  }
+
+
+  .userdata {
+    padding: 10px;
+    margin: 5px;
+  
+    /* IMPORTANTE */
+    
+  }
+
+  .padre {
+    display: flex;
+    
+  }
